@@ -1,4 +1,5 @@
 // https://refactoring.guru/design-patterns/observer
+// https://dev.to/jucian0/pub-sub-pattern-a-brief-explanation-21ed
 // subscribe to particular event data, not all events 
 // subscribe to your interest only
 /**
